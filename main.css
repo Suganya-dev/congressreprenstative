@@ -1,0 +1,56 @@
+.Congress{
+    text-align: left;
+    text-size-adjust: 20px;
+    text-decoration-color: rgb(69, 69, 223);
+    background-color: rgb(233, 235, 240);
+    border: 5px solid greenyellow;
+    padding:5px;
+    width: 75%;
+    height: 85%;
+    
+}
+.Congress__name {
+    text-align: center;
+    text-size-adjust: 300px;
+    font-size: xx-large;
+    font-weight: 700;
+    
+}
+.Congress__image{
+    image-resolution: 100%;
+    text-align: center;
+    background-attachment: fixed;
+    background-image: url("https://www.almanac.com/sites/default/files/image_nodes/american-flag-1.jpg");
+    
+}
+.Congress__districtinfo {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: medium;
+    color: white;
+    background-attachment: fixed;
+    background-image: url("https://www.almanac.com/sites/default/files/image_nodes/american-flag-1.jpg");
+}
+.Congress__bio {
+    background-color: cyan;
+    font-size: large;
+    font-weight: 200;
+    line-height: 1em;
+    text-indent: 15px;
+}
+.Congress__politicalinfo {
+    font-size: large;
+    font-weight: 100;
+    vertical-align: auto;
+    text-indent: 15px;
+}
+.Congress__committes {
+    align-self: hover;
+    color: black;
+    font-style: italic;
+    font-size: larger;
+   border: 2px dotted red;
+    padding:5px;
+    }
+
+}
